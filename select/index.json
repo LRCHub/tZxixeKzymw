@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "雨景色",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2026-03-29T14:49:28.999866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨景色",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_雨景色_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨景色",
+      "artist": "Rokudenashi",
+      "has_synced": true,
+      "path": "select/02_雨景色_Rokudenashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロクデナシ「雨景色」/ Rokudenashi - The Shape of Rain【Official Music Video】",
+      "artist": "Rokudenashi",
+      "has_synced": true,
+      "path": "select/03_ロクデナシ「雨景色」__Rokudenashi_-_The_Shape_of_Rain【Official_Music_Video】_Rokudenashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨景色",
+      "artist": "Rokudenashi",
+      "has_synced": true,
+      "path": "select/04_雨景色_Rokudenashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨景色",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_雨景色_ロクデナシ.txt"
+    }
+  ]
+}
